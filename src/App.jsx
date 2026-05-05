@@ -204,8 +204,24 @@ export default function Portfolio() {
             <div className="grid gap-4 md:grid-cols-4">
               <a href="mapingarama@gmail.com" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> Email: Mapingarama@gmail.com</a>
               <a href="tel:+254700221672" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> Phone: +254700221672</a>
-              <a href="https://github.com/MapingaRP" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> GitHub: MapingaRP</a>
-              <a href="https://www.linkedin.com/in/rama-paul-953a00407/" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> LinkedIn: Rama Paul</a>
+              <a 
+  href="https://github.com/MapingaRP" 
+  target="_blank" 
+  rel="noreferrer"
+  className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"
+>
+  <span className="mb-3 block text-2xl text-cyan-400"></span>
+  GitHub: MapingaRP
+</a>
+<a 
+  href="https://www.linkedin.com/in/rama-paul/" 
+  target="_blank" 
+  rel="noreferrer"
+  className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"
+>
+  <span className="mb-3 block text-2xl text-cyan-400"></span>
+  LinkedIn: Rama Paul
+</a>
             </div>
           </div>
         </section>
