@@ -202,10 +202,10 @@ export default function Portfolio() {
               I am currently open to attachment opportunities, mentorship, and junior-level software development experience.
             </p>
             <div className="grid gap-4 md:grid-cols-4">
-              <a href="mailto:your.email@example.com" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> Email: Mapingarama@gmail.com</a>
-              <a href="tel:+254700000000" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> Phone: +254700221672</a>
-              <a href="#" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> GitHub: MapingaRP</a>
-              <a href="#" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> LinkedIn: Rama Paul</a>
+              <a href="mapingarama@gmail.com" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> Email: Mapingarama@gmail.com</a>
+              <a href="tel:+254700221672" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> Phone: +254700221672</a>
+              <a href="https://github.com/MapingaRP" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> GitHub: MapingaRP</a>
+              <a href="https://www.linkedin.com/in/rama-paul-953a00407/" className="rounded-2xl bg-slate-950/70 p-4 transition hover:-translate-y-1"><span className="mb-3 block text-2xl text-cyan-400"></span> LinkedIn: Rama Paul</a>
             </div>
           </div>
         </section>
