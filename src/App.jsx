@@ -6,6 +6,7 @@ const projects = [
     title: "KILIFIVET Veterinary Chatbot",
     category: "Web App",
     tech: ["Python", "Flask", "MySQL", "HTML", "CSS", "JavaScript"],
+    liveLink: "https://kilifivet.onrender.com",
     description:
       "A web-based veterinary chatbot that helps livestock farmers get preliminary guidance on animal health issues by describing symptoms. It suggests possible diseases, treatment, prevention, and referral guidance.",
     highlights: [
