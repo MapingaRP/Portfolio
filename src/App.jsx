@@ -172,10 +172,10 @@ export default function Portfolio() {
     rel="noreferrer"
     className="text-slate-500 transition hover:text-cyan-400"
   >
-    ↗
+    open
   </a>
 ) : (
-  <span className="text-slate-500">↗</span>
+  <span className="text-slate-500">open</span>
 )}
                 </div>
                 <h3 className="mb-3 text-2xl font-bold">{project.title}</h3>
